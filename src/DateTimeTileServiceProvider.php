@@ -1,6 +1,6 @@
 <?php
 
-namespace Solitweb\DateTimeTile;
+namespace RoelGonzalez\DateTimeTile;
 
 use Illuminate\Support\ServiceProvider;
 use Livewire\Livewire;
